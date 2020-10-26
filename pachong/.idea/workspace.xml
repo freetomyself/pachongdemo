@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfcabdf5-99ea-43ac-9f60-f894892f86b0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1690070774">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="java" value="4969" />
+          <entry key="xml" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JAVA" value="4969" />
+          <entry key="XML" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="java" value="28" />
+          <entry key="js" value="3" />
+          <entry key="tld" value="1" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="28" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[{&quot;ktid&quot;:&quot;rluhcrvqykjjjsdj&quot;,&quot;ktname&quot;:&quot;销售/市场类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;rw6z9nza7gduikyw&quot;,&quot;xlid&quot;:&quot;ez7pdsrphwf9h9r5&quot;,&quot;name&quot;:&quot;销售代表&quot;},{&quot;id&quot;:&quot;dvbww41vhzdiqaq9&quot;,&quot;xlid&quot;:&quot;ung0x4wc5i93k9wz&quot;,&quot;name&quot;:&quot;公关人员&quot;},{&quot;id&quot;:&quot;mtuys60n9yb369wx&quot;,&quot;xlid&quot;:&quot;dqgl60hrrjxvvlbp&quot;,&quot;name&quot;:&quot;客户服务人员&quot;},{&quot;id&quot;:&quot;k9axo0ys3dtvuh23&quot;,&quot;xlid&quot;:&quot;4mqkyl9der7o64pu&quot;,&quot;name&quot;:&quot;市场策划人员&quot;}]},{&quot;ktid&quot;:&quot;nquuflmaypkejlet&quot;,&quot;ktname&quot;:&quot;财务/行政类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;7i088grumb4sfpo0&quot;,&quot;xlid&quot;:&quot;kth4daln6keximr4&quot;,&quot;name&quot;:&quot;审计人员&quot;},{&quot;id&quot;:&quot;621qz6e6s682xy2z&quot;,&quot;xlid&quot;:&quot;xrkrip08qxrzum94&quot;,&quot;name&quot;:&quot;会计人员&quot;},{&quot;id&quot;:&quot;dttaunhm1w7osz6i&quot;,&quot;xlid&quot;:&quot;q47ohoi3e8257nsp&quot;,&quot;name&quot;:&quot;人力资源管理人员&quot;},{&quot;id&quot;:&quot;wqg5n7djfm6t7xc4&quot;,&quot;xlid&quot;:&quot;vnbp9uea7i59qbz0&quot;,&quot;name&quot;:&quot;企业行政人员&quot;}]},{&quot;ktid&quot;:&quot;gdwvcvxnifzolfds&quot;,&quot;ktname&quot;:&quot;建筑类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;c6sb3yq2hd01ngc2&quot;,&quot;xlid&quot;:&quot;gsax55n75288zex4&quot;,&quot;name&quot;:&quot;土木建筑工程人员&quot;},{&quot;id&quot;:&quot;cmejs38kkmpkk63k&quot;,&quot;xlid&quot;:&quot;xxetyp4w9rcwzj81&quot;,&quot;name&quot;:&quot;建筑设计人员&quot;},{&quot;id&quot;:&quot;jw2jo4mr6mit14sm&quot;,&quot;xlid&quot;:&quot;tqbtn26ukqd4noyv&quot;,&quot;name&quot;:&quot;风景园林工程技术人员&quot;},{&quot;id&quot;:&quot;4rpsf9z2zu6oi4yc&quot;,&quot;xlid&quot;:&quot;qxjibasu76bgpb81&quot;,&quot;name&quot;:&quot;建筑工程造价人员&quot;},{&quot;id&quot;:&quot;nanojqr9t3kgxp6p&quot;,&quot;xlid&quot;:&quot;y6o85vyshwh1vxge&quot;,&quot;name&quot;:&quot;工程监理人员&quot;},{&quot;id&quot;:&quot;4u7xtz1yjmwv8gue&quot;,&quot;xlid&quot;:&quot;f8qlbhpixsb4swkx&quot;,&quot;name&quot;:&quot;施工员&quot;},{&quot;id&quot;:&quot;3jifw8gw138c97mw&quot;,&quot;xlid&quot;:&quot;q9or2a4ddg87niby&quot;,&quot;name&quot;:&quot;建筑项目经理&quot;},{&quot;id&quot;:&quot;698ktixi10y2ra0h&quot;,&quot;xlid&quot;:&quot;FRJutrZmMft4NR4P&quot;,&quot;name&quot;:&quot;建筑信息模型（BIM）技术员&quot;}]},{&quot;ktid&quot;:&quot;xrkbnrrnbxtfflja&quot;,&quot;ktname&quot;:&quot;金融类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;uw7maf2jzr50dizp&quot;,&quot;xlid&quot;:&quot;6ipovgfkkwfh7hjn&quot;,&quot;name&quot;:&quot;银行客户代表&quot;},{&quot;id&quot;:&quot;0svn1l5393rdeau5&quot;,&quot;xlid&quot;:&quot;ml5286ndleq41ybr&quot;,&quot;name&quot;:&quot;信贷管理人员&quot;},{&quot;id&quot;:&quot;p6j1q3jogwgs6y5p&quot;,&quot;xlid&quot;:&quot;vdvrbp2ymwbjxjde&quot;,&quot;name&quot;:&quot;风险控制人员&quot;},{&quot;id&quot;:&quot;5yhpp7vexf83umjq&quot;,&quot;xlid&quot;:&quot;tdpr8n3s9agymze8&quot;,&quot;name&quot;:&quot;个人产品经理&quot;},{&quot;id&quot;:&quot;lb4ql88xjx2n334x&quot;,&quot;xlid&quot;:&quot;ofoenbwwv9w8s3wb&quot;,&quot;name&quot;:&quot;银行柜员&quot;},{&quot;id&quot;:&quot;0evoaw7ygihomq6v&quot;,&quot;xlid&quot;:&quot;4o9opcqk2vo6a9kp&quot;,&quot;name&quot;:&quot;公司产品经理&quot;}]},{&quot;ktid&quot;:&quot;fsbejbfvwtjrrpsv&quot;,&quot;ktname&quot;:&quot;教育类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;253j1aeycml1fh5h&quot;,&quot;xlid&quot;:&quot;esg0iz8xe3r3mixh&quot;,&quot;name&quot;:&quot;幼儿教师&quot;},{&quot;id&quot;:&quot;q3o063fppwzji4gn&quot;,&quot;xlid&quot;:&quot;qs43ljcbd6hvnwcl&quot;,&quot;name&quot;:&quot;特殊教育教师&quot;},{&quot;id&quot;:&quot;p1w5ci4cihf1ibe1&quot;,&quot;xlid&quot;:&quot;m0der7lhcy749crp&quot;,&quot;name&quot;:&quot;小学教师&quot;},{&quot;id&quot;:&quot;j0fd675hgqprjpke&quot;,&quot;xlid&quot;:&quot;2y0pscwvz8lc1gyr&quot;,&quot;name&quot;:&quot;中学教师&quot;},{&quot;id&quot;:&quot;454lzliyyv6mhgly&quot;,&quot;xlid&quot;:&quot;0kdz136ugja3wwog&quot;,&quot;name&quot;:&quot;大学教师&quot;},{&quot;id&quot;:&quot;4olu7p7rsntzbu4q&quot;,&quot;xlid&quot;:&quot;xl7difqbn4ha8nid&quot;,&quot;name&quot;:&quot;培训机构教师&quot;},{&quot;id&quot;:&quot;494ha1xc51c49wib&quot;,&quot;xlid&quot;:&quot;k2zf84g5h30ln23q&quot;,&quot;name&quot;:&quot;中等职业学校教师&quot;}]},{&quot;ktid&quot;:&quot;hvfwdvgiapbhhgon&quot;,&quot;ktname&quot;:&quot;法律类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;utsntr163x6sikib&quot;,&quot;xlid&quot;:&quot;rufjw5mkud777vn7&quot;,&quot;name&quot;:&quot;律师&quot;},{&quot;id&quot;:&quot;khz6rta3b7r89nl5&quot;,&quot;xlid&quot;:&quot;v8bynps7djwctcy0&quot;,&quot;name&quot;:&quot;法官&quot;},{&quot;id&quot;:&quot;37sahw5sfh8kphht&quot;,&quot;xlid&quot;:&quot;x4wds68qxeuojbew&quot;,&quot;name&quot;:&quot;企业法务人员&quot;},{&quot;id&quot;:&quot;3o6k5ci0o8nvhq85&quot;,&quot;xlid&quot;:&quot;3vt08q4r4wpgvg1h&quot;,&quot;name&quot;:&quot;检察官&quot;}]},{&quot;ktid&quot;:&quot;yasvhintltsfhjji&quot;,&quot;ktname&quot;:&quot;医疗类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;42bkddwlkkai92b5&quot;,&quot;xlid&quot;:&quot;2c7p8cy2tizba2uv&quot;,&quot;name&quot;:&quot;外科医师&quot;},{&quot;id&quot;:&quot;lrr9b0e1m9hljkji&quot;,&quot;xlid&quot;:&quot;bzrf3ex6xorqdvfn&quot;,&quot;name&quot;:&quot;内科医师&quot;},{&quot;id&quot;:&quot;zgbsyg7o1el9dwga&quot;,&quot;xlid&quot;:&quot;os1dlth3ve674zdj&quot;,&quot;name&quot;:&quot;口腔科医师&quot;},{&quot;id&quot;:&quot;x4ld42rz8ikh1liv&quot;,&quot;xlid&quot;:&quot;y52hd1mz0c6syfyi&quot;,&quot;name&quot;:&quot;护士&quot;},{&quot;id&quot;:&quot;tfi2q7v8n6fihe92&quot;,&quot;xlid&quot;:&quot;mhtank7kr77n7u09&quot;,&quot;name&quot;:&quot;药剂师&quot;},{&quot;id&quot;:&quot;utbkf1agvl32q5ij&quot;,&quot;xlid&quot;:&quot;3q90k9nhn0balo8i&quot;,&quot;name&quot;:&quot;临床检验技师&quot;},{&quot;id&quot;:&quot;9cactvsl0zf39k41&quot;,&quot;xlid&quot;:&quot;a7wnwpcxy6onjg43&quot;,&quot;name&quot;:&quot;放射科医师&quot;},{&quot;id&quot;:&quot;fyf95kwgbmprzofv&quot;,&quot;xlid&quot;:&quot;1ukalaobjo7av08d&quot;,&quot;name&quot;:&quot;中医科医师&quot;}]},{&quot;ktid&quot;:&quot;szcihqigiclritju&quot;,&quot;ktname&quot;:&quot;农业类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;m0oteapm1oven1p4&quot;,&quot;xlid&quot;:&quot;sl5ljy5dqlh64sku&quot;,&quot;name&quot;:&quot;植物保护人员&quot;},{&quot;id&quot;:&quot;0lxwbwfhke6bj4vu&quot;,&quot;xlid&quot;:&quot;54zw4ld7q6g3h40z&quot;,&quot;name&quot;:&quot;畜牧与草业技术人员&quot;},{&quot;id&quot;:&quot;s72jk6hk09qu8jt8&quot;,&quot;xlid&quot;:&quot;23ibbqmgwbmezcvp&quot;,&quot;name&quot;:&quot;园艺技术人员&quot;},{&quot;id&quot;:&quot;gk93lr8vtji9n74r&quot;,&quot;xlid&quot;:&quot;wpa01m0eby515plh&quot;,&quot;name&quot;:&quot;土壤肥料技术人员&quot;},{&quot;id&quot;:&quot;78g6nscaxi94gfz5&quot;,&quot;xlid&quot;:&quot;wpa11m0eby515plh&quot;,&quot;name&quot;:&quot;遗传育种栽培技术人员&quot;},{&quot;id&quot;:&quot;xbz5o9j8vhsxjqba&quot;,&quot;xlid&quot;:&quot;jRrVk1yQEAd52IzJ&quot;,&quot;name&quot;:&quot;农业经理人&quot;}]},{&quot;ktid&quot;:&quot;tveaenxkchamqvxg&quot;,&quot;ktname&quot;:&quot;工程技术类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;uxcc8huuurj9yk3k&quot;,&quot;xlid&quot;:&quot;98vtzpfhx0ch1qlv&quot;,&quot;name&quot;:&quot;水利工程技术人员&quot;},{&quot;id&quot;:&quot;19se89llp6ahyeue&quot;,&quot;xlid&quot;:&quot;1gppfxn0xx8vi5fv&quot;,&quot;name&quot;:&quot;电子工程技术人员&quot;},{&quot;id&quot;:&quot;4qtk6pe0yfpfwz2j&quot;,&quot;xlid&quot;:&quot;1gs7yb83eoc3fost&quot;,&quot;name&quot;:&quot;机械工程技术人员&quot;},{&quot;id&quot;:&quot;7gkg05fn53qsrcqg&quot;,&quot;xlid&quot;:&quot;exdh1x9p0by8rl8p&quot;,&quot;name&quot;:&quot;电力工程技术人员&quot;},{&quot;id&quot;:&quot;ellselbu1zmyiw07&quot;,&quot;xlid&quot;:&quot;2ggcxsc0t00e0cka&quot;,&quot;name&quot;:&quot;电气工程技术人员&quot;},{&quot;id&quot;:&quot;j4y9riyzrl3q4hre&quot;,&quot;xlid&quot;:&quot;98hzx1koprai58up&quot;,&quot;name&quot;:&quot;汽车工程技术人员&quot;},{&quot;id&quot;:&quot;a6pfregtkgamp51m&quot;,&quot;xlid&quot;:&quot;40uv94oh9z0nwlfi&quot;,&quot;name&quot;:&quot;航空工程技术人员&quot;},{&quot;id&quot;:&quot;q695cw6fjjvjfofk&quot;,&quot;xlid&quot;:&quot;fujc2n44zxqut4fw&quot;,&quot;name&quot;:&quot;铁路工程技术人员&quot;},{&quot;id&quot;:&quot;jleka5oyc57yml6w&quot;,&quot;xlid&quot;:&quot;3w88ttgrwlpkih3c&quot;,&quot;name&quot;:&quot;船舶工程技术人员&quot;},{&quot;id&quot;:&quot;7ul9op78ts8iguku&quot;,&quot;xlid&quot;:&quot;gojbskmzct4qpbuz&quot;,&quot;name&quot;:&quot;地质勘探技术人员&quot;},{&quot;id&quot;:&quot;trwsco528boqgwsl&quot;,&quot;xlid&quot;:&quot;bfofcak2yexm825r&quot;,&quot;name&quot;:&quot;管道工程与油气储运技术人员&quot;},{&quot;id&quot;:&quot;ec42lpun6u92ct51&quot;,&quot;xlid&quot;:&quot;fc4niazo2wapgvi2&quot;,&quot;name&quot;:&quot;石油与天然气工程技术人员&quot;},{&quot;id&quot;:&quot;fnswxb0nj4y5x80s&quot;,&quot;xlid&quot;:&quot;aqz910hg4suxddto&quot;,&quot;name&quot;:&quot;食品工程技术人员&quot;}]},{&quot;ktid&quot;:&quot;owyxhoqevxurhomu&quot;,&quot;ktname&quot;:&quot;计算机类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;bsn0ycljx9dkxkmu&quot;,&quot;xlid&quot;:&quot;h0r2xphfrvhuoo6r&quot;,&quot;name&quot;:&quot;计算机硬件工程师&quot;},{&quot;id&quot;:&quot;zqi6izw9upyku4zb&quot;,&quot;xlid&quot;:&quot;81cflbugfu4sf5fa&quot;,&quot;name&quot;:&quot;游戏开发工程师&quot;},{&quot;id&quot;:&quot;668e0ip97m4y5zhm&quot;,&quot;xlid&quot;:&quot;5bpddlmi043ey3v3&quot;,&quot;name&quot;:&quot;系统集成工程师&quot;},{&quot;id&quot;:&quot;ti9j2hc6hykdnmt6&quot;,&quot;xlid&quot;:&quot;npex9raewawecuml&quot;,&quot;name&quot;:&quot;网络工程师&quot;},{&quot;id&quot;:&quot;r3ulul3d64sl5sk4&quot;,&quot;xlid&quot;:&quot;jbiotrakrippqase&quot;,&quot;name&quot;:&quot;计算机软件工程师&quot;},{&quot;id&quot;:&quot;wxp0kxgjvynecims&quot;,&quot;xlid&quot;:&quot;q4nvz269nnxevwgn&quot;,&quot;name&quot;:&quot;软件测试工程师&quot;},{&quot;id&quot;:&quot;0eh56hzhltzg86pn&quot;,&quot;xlid&quot;:&quot;ax3ic4jn56uwvurf&quot;,&quot;name&quot;:&quot;移动客户端开发工程师&quot;},{&quot;id&quot;:&quot;38p5qcxjcsyjl64r&quot;,&quot;xlid&quot;:&quot;l7ugrkdtg3ecl56e&quot;,&quot;name&quot;:&quot;互联网产品经理&quot;},{&quot;id&quot;:&quot;bf01qfl4cctxfhcz&quot;,&quot;xlid&quot;:&quot;9roti90tig03m16x&quot;,&quot;name&quot;:&quot;网页(WEB)前端开发工程师&quot;},{&quot;id&quot;:&quot;v3o3ohhq9b6xemio&quot;,&quot;xlid&quot;:&quot;z67sfbhftziwyypx&quot;,&quot;name&quot;:&quot;信息技术(IT)项目经理&quot;},{&quot;id&quot;:&quot;qrnpx30r02ekosop&quot;,&quot;xlid&quot;:&quot;7v7fd9ixzc0ylcus&quot;,&quot;name&quot;:&quot;用户界面(UI)设计师&quot;},{&quot;id&quot;:&quot;xkob2s0qbxc89piw&quot;,&quot;xlid&quot;:&quot;WRUbDZPG4t8E63Yt&quot;,&quot;name&quot;:&quot;人工智能工程技术人员&quot;}]},{&quot;ktid&quot;:&quot;ubmzygosoyckfqrs&quot;,&quot;ktname&quot;:&quot;证券类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;l09u5slplugvtpe0&quot;,&quot;xlid&quot;:&quot;b0ntmf1ici7r7iho&quot;,&quot;name&quot;:&quot;机构销售经理&quot;},{&quot;id&quot;:&quot;967rwcrluh8lmj3i&quot;,&quot;xlid&quot;:&quot;g3d9wi1skwszk1jh&quot;,&quot;name&quot;:&quot;理财规划师&quot;},{&quot;id&quot;:&quot;fspfp2eqrd0nu96v&quot;,&quot;xlid&quot;:&quot;rtrxc0r7lozefyov&quot;,&quot;name&quot;:&quot;投资经理&quot;},{&quot;id&quot;:&quot;57tl39776jxyqb3m&quot;,&quot;xlid&quot;:&quot;dvf13kqqjjx1v78j&quot;,&quot;name&quot;:&quot;投资银行业务人员&quot;},{&quot;id&quot;:&quot;teldd61onlmlh8jt&quot;,&quot;xlid&quot;:&quot;5cnycrt63ookvfc0&quot;,&quot;name&quot;:&quot;证券分析师&quot;}]},{&quot;ktid&quot;:&quot;peqpxxtgdemqcxnf&quot;,&quot;ktname&quot;:&quot;保险类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;f26tow6zbetu34v8&quot;,&quot;xlid&quot;:&quot;20mct50wg2537pw6&quot;,&quot;name&quot;:&quot;核保核赔人员&quot;},{&quot;id&quot;:&quot;zfw1jp63kjujkeuh&quot;,&quot;xlid&quot;:&quot;adxihbk4yrooqb13&quot;,&quot;name&quot;:&quot;保险销售人员&quot;},{&quot;id&quot;:&quot;aif7odxkpn0kb0nq&quot;,&quot;xlid&quot;:&quot;7lmeerwnq46uune8&quot;,&quot;name&quot;:&quot;精算师&quot;}]},{&quot;ktid&quot;:&quot;vfffqxagxesngazx&quot;,&quot;ktname&quot;:&quot;贸易和物流类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;0bxsritlgu6wrv21&quot;,&quot;xlid&quot;:&quot;bus6ci2jvs9xl7fx&quot;,&quot;name&quot;:&quot;采购人员&quot;},{&quot;id&quot;:&quot;qgqyv48jvnmmk7zc&quot;,&quot;xlid&quot;:&quot;wpa0zm0eby515plh&quot;,&quot;name&quot;:&quot;物流管理人员&quot;},{&quot;id&quot;:&quot;nn6afku1hw8x1hrp&quot;,&quot;xlid&quot;:&quot;x3tqkijm26apagns&quot;,&quot;name&quot;:&quot;供应链管理人员&quot;},{&quot;id&quot;:&quot;p32r65jqcci2ladd&quot;,&quot;xlid&quot;:&quot;6vi7up53vqlh7n8w&quot;,&quot;name&quot;:&quot;外贸人员&quot;}]},{&quot;ktid&quot;:&quot;nzlpgtayxhiaiika&quot;,&quot;ktname&quot;:&quot;生产制造类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;unuhwwy7yhgzusfz&quot;,&quot;xlid&quot;:&quot;a9dn1soq780bmkm8&quot;,&quot;name&quot;:&quot;生产管理人员&quot;},{&quot;id&quot;:&quot;k766c0xydz3ynv5z&quot;,&quot;xlid&quot;:&quot;ygpi4uox67wkyu70&quot;,&quot;name&quot;:&quot;质量检验工程技术人员&quot;},{&quot;id&quot;:&quot;vgnlrntzfr89sz97&quot;,&quot;xlid&quot;:&quot;00c26o2j4cw6qbhx&quot;,&quot;name&quot;:&quot;制造工艺技术人员&quot;}]},{&quot;ktid&quot;:&quot;ednpnpkhlztuntrb&quot;,&quot;ktname&quot;:&quot;生物制药类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;e2e2yd2udm2k8dc2&quot;,&quot;xlid&quot;:&quot;h1817xgpgl04wn31&quot;,&quot;name&quot;:&quot;药品研发人员&quot;},{&quot;id&quot;:&quot;xew5qxg3mr8fqz8a&quot;,&quot;xlid&quot;:&quot;qiuipy45mla4r1mk&quot;,&quot;name&quot;:&quot;制药工程技术人员&quot;},{&quot;id&quot;:&quot;lq3d6efctlwa39zp&quot;,&quot;xlid&quot;:&quot;nchre6oi6vjiodf9&quot;,&quot;name&quot;:&quot;生物工程技术人员&quot;}]},{&quot;ktid&quot;:&quot;rfzyzkvttuusnsxd&quot;,&quot;ktname&quot;:&quot;化工环保类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;l0nsd6t7wb64wihw&quot;,&quot;xlid&quot;:&quot;etw5a4j3mr95lf2b&quot;,&quot;name&quot;:&quot;化工工程技术人员&quot;},{&quot;id&quot;:&quot;5fhjr5dn6ceqt3l1&quot;,&quot;xlid&quot;:&quot;lhnklp48k6d9zhwz&quot;,&quot;name&quot;:&quot;环境保护工程技术人员&quot;}]},{&quot;ktid&quot;:&quot;gbgfqdbxgypbecxk&quot;,&quot;ktname&quot;:&quot;艺术设计类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;wufa6gux0ppht9sk&quot;,&quot;xlid&quot;:&quot;j9gwo0y4swtfe51s&quot;,&quot;name&quot;:&quot;平面设计师&quot;},{&quot;id&quot;:&quot;nl4ulowf3hl9hyqo&quot;,&quot;xlid&quot;:&quot;60pll5jfz58v94ot&quot;,&quot;name&quot;:&quot;广告设计师&quot;},{&quot;id&quot;:&quot;9ycixrtyfjbag2kz&quot;,&quot;xlid&quot;:&quot;rbilvhaictgz0niu&quot;,&quot;name&quot;:&quot;工业设计师&quot;},{&quot;id&quot;:&quot;mvdyfmynjmg5q26s&quot;,&quot;xlid&quot;:&quot;06wrzypnf34rs9a9&quot;,&quot;name&quot;:&quot;服装设计师&quot;}]},{&quot;ktid&quot;:&quot;dhpwnszmjicdxsek&quot;,&quot;ktname&quot;:&quot;传媒文化类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;c13er88h4cult5qb&quot;,&quot;xlid&quot;:&quot;c865lplyjheft1i9&quot;,&quot;name&quot;:&quot;播音主持人员&quot;},{&quot;id&quot;:&quot;xw2kptvlegapv452&quot;,&quot;xlid&quot;:&quot;utiku8u7hw8dtmmr&quot;,&quot;name&quot;:&quot;翻译&quot;},{&quot;id&quot;:&quot;gi18ut022b40o2xq&quot;,&quot;xlid&quot;:&quot;b865lplyjheft1i9&quot;,&quot;name&quot;:&quot;广播电视编导&quot;},{&quot;id&quot;:&quot;qlnwtzr1tj4xuez3&quot;,&quot;xlid&quot;:&quot;zv7wskw6slyq2kaw&quot;,&quot;name&quot;:&quot;记者&quot;},{&quot;id&quot;:&quot;nf6v82yhfipz6ocf&quot;,&quot;xlid&quot;:&quot;d865lplyjheft1i9&quot;,&quot;name&quot;:&quot;编辑&quot;}]},{&quot;ktid&quot;:&quot;gsvsbpccduguzyqb&quot;,&quot;ktname&quot;:&quot;酒店旅游类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;auq05qw7o2k4slbi&quot;,&quot;xlid&quot;:&quot;f8fzmwwleclps7nk&quot;,&quot;name&quot;:&quot;酒店前厅接待人员&quot;},{&quot;id&quot;:&quot;gg7aqfl2n4q5las5&quot;,&quot;xlid&quot;:&quot;5mzjxzl2zphg871l&quot;,&quot;name&quot;:&quot;酒店管理人员&quot;},{&quot;id&quot;:&quot;123cx6erq1ow7kav&quot;,&quot;xlid&quot;:&quot;hc51avdb6zeubfom&quot;,&quot;name&quot;:&quot;导游&quot;}]},{&quot;ktid&quot;:&quot;mijusykqkijnwghm&quot;,&quot;ktname&quot;:&quot;体育类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;lnsvefal5qimo6cu&quot;,&quot;xlid&quot;:&quot;ydxi5ju3tlbq180x&quot;,&quot;name&quot;:&quot;健身教练&quot;}]},{&quot;ktid&quot;:&quot;vrruihgnduqgzing&quot;,&quot;ktname&quot;:&quot;通信类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;q1sr2j5zs65e4uh3&quot;,&quot;xlid&quot;:&quot;ofy4bsqx6zvryaas&quot;,&quot;name&quot;:&quot;通信信息系统工程师&quot;},{&quot;id&quot;:&quot;ib16z5l3g8mfjuzv&quot;,&quot;xlid&quot;:&quot;rjk4pqf2k1xyc2un&quot;,&quot;name&quot;:&quot;通信传输接入工程师&quot;},{&quot;id&quot;:&quot;a6ol09tfie1mtwwh&quot;,&quot;xlid&quot;:&quot;jzf5s1ri47gy28aq&quot;,&quot;name&quot;:&quot;通信交换工程师&quot;},{&quot;id&quot;:&quot;lar9hyeyskcqccl0&quot;,&quot;xlid&quot;:&quot;x48pkp9z8q97ouyw&quot;,&quot;name&quot;:&quot;通信电源工程师&quot;},{&quot;id&quot;:&quot;znbcz9t61tetwz68&quot;,&quot;xlid&quot;:&quot;z78d9ao0gb7nuba6&quot;,&quot;name&quot;:&quot;通信终端业务工程师&quot;}]},{&quot;ktid&quot;:&quot;tfitmxblegxpwbfr&quot;,&quot;ktname&quot;:&quot;公务员类&quot;,&quot;occInfos&quot;:[{&quot;id&quot;:&quot;26ira4d9cp1gn55c&quot;,&quot;xlid&quot;:&quot;czzv3g8llzj10hlz&quot;,&quot;name&quot;:&quot;公务员(中央国家机关)&quot;},{&quot;id&quot;:&quot;rfqa0wx9f481vmhj&quot;,&quot;xlid&quot;:&quot;f29iyrjwpsopb4o7&quot;,&quot;name&quot;:&quot;公务员(省级机关)&quot;},{&quot;id&quot;:&quot;gcpb9j818gh7i8rv&quot;,&quot;xlid&quot;:&quot;c90ulah4rm33fp61&quot;,&quot;name&quot;:&quot;公务员(地市级机关)&quot;},{&quot;id&quot;:&quot;dvwhi602rq6flvni&quot;,&quot;xlid&quot;:&quot;zgebotyypkvzd3wm&quot;,&quot;name&quot;:&quot;公务员(区县级及以下机关)&quot;}]},{&quot;ktid&quot;:&quot;pmmpwthqtcwfcoer&quot;,&quot;ktname&quot;:&quot;青年创业者&quot;,&quot;occInfos&quot;:[]}]</find>
+      <find>外科医师</find>
+      <find>在区县及以下的行政单位工作的依法</find>
+      <find>任务职责</find>
+      <find>xz-part-content clearfix</find>
+      <find>xz-part-sub</find>
+      <find>GetAjaxHtml</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../facepp-java-sdk" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/WebInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gg.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/phantomjs.js.tld" />
+        <option value="$PROJECT_DIR$/src/main/resources/phantomjs.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/res/Phantomjs2.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/hh.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/server/GetAjaxHtml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/bean/ResultJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/bean/OccInfos.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/util/aa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/util/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/server/GetWebInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/server/CatchPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/server/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/whd/server/test2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/my_java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\my_java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="252" />
+    <option name="y" value="44" />
+    <option name="width" value="1077" />
+    <option name="height" value="782" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="whd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="whd" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pachong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pachong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="whd" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603672629949" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\whdIDEASpace\pachong\src\main\java\com\res" />
+      <recent name="D:\whdIDEASpace\pachong\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\whdIDEASpace\pachong\src\main\resources" />
+      <recent name="D:\whdIDEASpace\pachong\src\main\java\com\bin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test2">
+    <configuration name="CatchPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whd.server.CatchPage" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whd.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAjaxHtml" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whd.server.GetAjaxHtml" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whd.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetWebInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whd.server.GetWebInfo" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whd.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whd.server.test" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whd.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whd.server.test2" />
+      <module name="pachong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whd.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CatchPage" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.GetWebInfo" />
+      <item itemvalue="Application.GetAjaxHtml" />
+      <item itemvalue="Application.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.CatchPage" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.GetAjaxHtml" />
+        <item itemvalue="Application.GetWebInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfcabdf5-99ea-43ac-9f60-f894892f86b0" name="Default Changelist" comment="" />
+      <created>1603264421210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603264421210</updated>
+      <workItem from="1603264431234" duration="34868000" />
+      <workItem from="1603432571903" duration="21486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56354000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19126074" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962447" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36717662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21696801" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32940018" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.32940018" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32940018" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Java/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1032">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/bean/WebInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Phantomjs2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/phantomjs.js.tld" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gg.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hh.html" />
+    <entry file="jar://D:/Java/jdk1.8.0_181/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="93" column="43" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/职业百科数据.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/bean/OccInfos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/bean/ResultJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/util/OtherExcelUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/res/Phantomjs2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/server/GetAjaxHtml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/server/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#325#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/server/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1029#1039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/util/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/server/CatchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="70" column="44" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2195#2203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/whd/server/GetWebInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pachong</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
